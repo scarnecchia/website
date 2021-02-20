@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on Scarnecchia</title>
+    <link>/recipes/</link>
+    <description>Recent content in Recipes on Scarnecchia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Messer Agnolotto</title>
+      <link>/recipes/2021-02-20-messer-agnolotto/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/2021-02-20-messer-agnolotto/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
