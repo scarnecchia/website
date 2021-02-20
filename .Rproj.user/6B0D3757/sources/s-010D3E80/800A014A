@@ -1,24 +1,24 @@
 {
-    "id": "C1E1F378",
+    "id": "800A014A",
     "path": "D:/Github/website/content/post/2019-01-17-international-information-power-politics/index.Rmd",
     "project_path": "content/post/2019-01-17-international-information-power-politics/index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3083609779",
     "contents": "",
     "dirty": false,
-    "created": 1613856205233.0,
+    "created": 1613857368323.0,
     "source_on_save": false,
     "relative_order": 6,
     "properties": {
-        "cursorPosition": "20,0",
-        "scrollLine": "11"
+        "cursorPosition": "2,14",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1613856371,
+    "lastKnownWriteTime": 1613857372,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613856371268,
+    "last_content_update": 1613857372876,
     "read_only": false,
     "read_only_alternatives": []
 }
