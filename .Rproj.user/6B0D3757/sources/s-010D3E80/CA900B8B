@@ -1,24 +1,24 @@
 {
-    "id": "590D9ACC",
+    "id": "CA900B8B",
     "path": "D:/Github/website/content/post/2019-02-19-tech-ethics-won-t-save-us/index.Rmd",
     "project_path": "content/post/2019-02-19-tech-ethics-won-t-save-us/index.Rmd",
     "type": "r_markdown",
-    "hash": "982496612",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1613857353118.0,
+    "created": 1613888385670.0,
     "source_on_save": false,
     "relative_order": 5,
     "properties": {
-        "cursorPosition": "2,14",
+        "cursorPosition": "0,3",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1613857356,
+    "lastKnownWriteTime": 1613888852,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1613857356533,
+    "last_content_update": 1613888852627,
     "read_only": false,
     "read_only_alternatives": []
 }
