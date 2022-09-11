@@ -1,0 +1,29 @@
+---
+title: "Mapping Medfield State Hospital"
+author: "D. Scarnecchia"
+date: "2015-09-14"
+categories:
+  - Drones
+  - Mapping
+  - GIS
+format:
+  html:
+    css: "css/skeleton.css"
+keywords: [Drones, Mapbox, Maps, Ortherectified Imagery, "Medfield State Hospital", UAV, "Drone Deploy"]
+description: "A map of Medfield State Hospital in Medfield, MA generated with Drone Deploy and a DJI Phantom 3 Pro."
+resources:
+  - "medfield.html"
+  - "css/**"
+  - "images/**"
+  - "js/**"
+---
+
+This weekend [Faine](http://faineg.com) and I drove out to the Medfield State Hospital, a defunct mental hospital in Medfield, Massachusetts. The grounds are open to the public, and it is outside of Boston's Class B airspace. Faine recently picked up a [DJI Phantom 3](http://www.dji.com/product/phantom-3) and a the folks at [Drone Deploy](https://www.dronedeploy.com) were kind enough to give us access to the application for testing.
+
+This map is generated with orthorectified imagery by Drone Deploy. In all the process of collecting the photographs took about 7 minutes. It has a [ground sample distance](https://en.wikipedia.org/wiki/Ground_sample_distance)[^1] of 3.2 cm and covers about 12.2 hectares of land:
+
+[^1]: See also: [GSD Calculator](../../resources/GSD_Calculator/index.html)
+
+```{=html}
+<iframe style="width: 100%; height: 100%;" src="medfield.html"></iframe>
+```

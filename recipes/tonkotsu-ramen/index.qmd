@@ -1,0 +1,100 @@
+---
+title: "Tonkotsu Ramen"
+author: "D. Scarnecchia"
+date: "2021-02-20"
+categories: [recipes, ramen, japanese]
+---
+
+This recipe is a pressure cooker adaptation of Kenji Lopez-Alt's Serious Eat's recipe via Reddit user Lord Ramen. The original can be found in all it's glory under the post ["\[FRESH\] Don't feel like spending 18 hours making tonkotsu? Use a pressure cooker and spend 6 hours instead."](https://www.reddit.com/r/ramen/comments/7arli8/fresh_dont_feel_like_spending_18_hours_making/).
+
+I have reproduced it here for my own reference.
+
+> Hi everyone,
+>
+> I've been exploring the idea of altering my tonkotsu recipe. Right now that takes too long for most people to try it, and it's really involved. 18 hours! Too long!
+>
+> The thing is, home cooks aren't alone in this hatred of double-day cookathons. Restaurants also have this problem after all. So many have opted for cooking Tonkotsu in a pressure cooker. They make massive, hundred quart pressure cookers in Japan for this very reason.
+>
+> I won't get into the chemistry of pressure cooking (there are people far more eloquent out there who have written about it extensively), but the gist of it is that pressure cookers increase the boiling point of water due to the pressure in the pot, allowing you to cook things way faster in a moist environment. A broth that takes 6 hours now only takes 1.
+>
+> Now, the legendary J. Kenji Lopez Alt (/u/j_kenji_lopez-alt), when he wrote his tonkotsu recipe that often gets cited here, wrote very explicitly that a pressure cooker wouldn't work for tonkotsu. A pressure cooker doesn't jostle and actually bubble (the pressure in the pot prevents a rapid boil), which is integral to the emulsification of the fat and water in a tonkotsu.
+>
+> Except... well... you can totally cook a tonkotsu in a pressure cooker. Sorry Kenji. You just need to get that rapid boil in at some point, which you can do after the bulk pressure cooking. The gelatin will work pretty quickly to emulsify things together.
+>
+> So here's the method. I don't think this is perfect yet, but I thought I'd share as an alternative to having a pot on the fire for 18 hours. For the other components, I've also included them in the bottom.
+
+## Broth
+
+| Ingredient      | Amount         |
+|-----------------|----------------|
+| Pork Neck Bones | 1 kg / 2 lbs   |
+| Pork Femurs     | 1 kg / 2 lbs   |
+| Fatback         | 180 g / .4 lbs |
+| Onion           | ½              |
+| Garlic          | 6 cloves       |
+
+### Directions
+
+1.  *Optional*: The night before, or at least 6 hours prior to cooking, soak your neck bones and femurs in water in a cold, non-reactive vessel.[^1]
+2.  When ready to cook, add your neck bones and femurs to a pot with fresh water. Bring to a boil, then down to a simmer, and skim the scum that rises to the top of the pot. Do this for 15-20 minutes, or until little scum is rising. The scum goes through several phases here, you'll know when the scum is pretty much done rising up. This blanch is integral for a white tonkotsu, don't skip it, and don't end it prematurely.
+3.  Strain the bones from the blanching liquid. Discard the liquid.
+4.  Scrub and clean the bones under running water, removing any black or dirty looking particulate that may be on the outside of the bones or in crevices.
+5.  Add your now clean bones to a pressure cooker, covering with just enough water. Bring to a boil, then cover, bring to full pressure (15 PSI), and cook under pressure for 2 hours
+6.  Fast release the pot, being careful to avoid splashes (if your pressure cooker doesn't have this feature, regular release is fine). Give the contents a stir, then cover, bring to high pressure again, and cook for 1 hour.
+7.  Remove pressure and open the cooker. Add in your fatback, give it a stir, bring the contents back to a boil, and cook under pressure for one more hour.
+8.  Depressurize the pot. Remove the fatback, adding it to a blender. Blend with an appropriate amount of broth until the fatback is completely broken down into a liquid, then add this back to the broth. No chunks here, we're looking for smooth liquid.
+9.  If using, add aromatics to the now uncovered broth
+10. Cook, uncovered, at a rapid boil, for 45 minutes, or until the broth is opaque, creamy, and to the desired consistency you want. Stir occasionally to prevent scorching on the bottom of the pot.
+11. Strain and reserve as needed. Conversely, store in the fridge for up to 5 days, or freeze for several months.
+
+[^1]: In retrospect, I would reverse the ratios for the alkaline salts. Potassium makes the noodles very firm, making them even harder to work with at home. I spoke with a Kansui manufacturer on this and they suggested high sodium levels are common in Hakata-style noodles for this reason.
+
+## Chashu
+
+High temp sous vide chashu. You SHOULD do this, it's a nice balance between braised and steaky, tender but not overly-melty. And it's pretty easy.
+
+| Ingredient          | Amount |
+|---------------------|--------|
+| Pork belly, skin on | tbd    |
+| Mirin               | ½ C    |
+| Soy Sauce           | ½ C    |
+| Water               | 1 C    |
+| Brown Sugar         | 1 T    |
+| Sake                | ¼ C    |
+
+### Directions
+
+1.  Preheat the waterbath to 174° F.
+2.  Sear the pork belly on all sides in a pan until golden brown, then place in vacuum bag.
+3.  Deglaze the pan with the remaining ingredients, then reserve this liquid and allow to cool.
+4.  When liquid has cooled, add it to the bag with the pork.
+5.  Cook the pork belly sous vide for a minimum seven (7) hours, or up to twelve (12) hours.[^2]
+6.  Remove from the bath, and shock in ice water to chill quickly. Reserve in the fridge if needed.
+
+[^2]: In retrospect, I would reverse the ratios for the alkaline salts. Potassium makes the noodles very firm, making them even harder to work with at home. I spoke with a Kansui manufacturer on this and they suggested high sodium levels are common in Hakata-style noodles for this reason.
+
+## Low Hydration Noodles
+
+Lord Ramen's editorial note:
+
+> I made some really low hydration noodles for this one, which I cannot recommend making. 30% hydration. They were awesome. And impossible to make at home. Don't make these. You'll hate yourself. Seriously don't make this recipe. Just buy the noodles from Sun Noodle. They're quite good.
+
+| Ingredient         | Amount |
+|--------------------|--------|
+| 00 Flour           | 99 g   |
+| Vital Wheat Gluten | 1 g    |
+| Salt               | 1 g    |
+| Dry Kansui         | 1 g    |
+
+### Directions
+
+1.  Add kansui powder and salt to the water, dissolve completely. I like to add one at a time, these alkaline salts actually release a small amount of heat when hitting the water and will form small chemical bonds to themselves if not added gradually, which results in it clumping up. Go slowly, stir constantly until clear. This will take awhile, but eventually things will work out.
+2.  In a standing mixer with a paddle attachment, add your flour, Turn the mixer to "stir" and run for 30 seconds.
+3.  While running the mixer on stir, add two thirds of your water mixture slowly, in an even stream. Let the mixer stir for 3 minutes.
+4.  Add in the remaining water mixture with the mixer running, run for another minute, until small clumps begin to form.
+5.  Add the mixture to a ziplock style bag. Close, and let this rest for 30 minutes. This gives the flour granules time to fully absorb the water and alkaline salts, rests some gluten (which, believe it or not, you developed while mixing this dough) and allows some trapped air in the dough balls to escape, which is called "degassing." An air free starch gel results in better texture. Don't skip this.
+6.  Knead it. For these really low hydration ones, I did the stepping technique, then rolled. As in, put the plastic bag on the floor, and step on the contents until it sticks together. Then take a chunk of this thick sheet, and roll it out with your machine, going through the largest setting, then the 2nd, then the 3rd. Fold, making sure to fold to keep the direction of the dough consistent, repeating this process. until the sheet is quite smooth and not ragged. This process sucks. Again, don't do this recipe. It's hard.
+7.  After kneading, cover with plastic, and rest at room temp for another 30 minutes. This gives the gluten time to relax.
+8.  Pull out your dough. Portion into workable sizes, and roll out to desired thickness, using potato or cornstarch as you go to prevent sticking. Do this with a pasta machine, it is borderline impossible without a machine. An electric one will save you an incredible amount of effort.
+9.  Cut your noodles to your desired thickness. I used an angel hair attachment, so they were quite thin here.
+10. Place in the fridge and allow to rest for at least a day. This final resting phase ensures even hydration and helps make an even starch gel, promoting better texture. Enzymatic activity in the flour also helps build flavor, and the alkaline flavor of the dough subsides somewhat.

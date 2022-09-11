@@ -1,0 +1,25 @@
+---
+title: "About"
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mountainherder
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/scarndp/
+    - icon: github
+      text: Github
+      href: https://github.com/scarnecchia
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/mountainherder
+---
+
+D. Scarnecchia currently helps software development teams build and deliver the tools and infrastructure the [U.S. Food and Drug Administration (FDA)](https://www.sentinelinitiative.org) uses to access the safety of approved drugs, vaccines, and medical devices.
+
+Scarnecchia's previous work includes:
+
+-   building multi-stakeholder research consortiums using real-world evidence to study drug safety and consulting on the governance of sensitive data and the integration of new technologies into the life sciences industry
+-   leading the Standards and Ethics work at the Harvard Humanitarian Initiative's Signal Program on Human Security and Technology, where he studied the governance of data and technology in the humanitarian sector, as well as the impact of technology on humanitarian crises.

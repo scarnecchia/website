@@ -1,21 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ravioli on Scarnecchia</title>
-    <link>/tags/ravioli/</link>
-    <description>Recent content in ravioli on Scarnecchia</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ravioli/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Messer Agnolotto</title>
-      <link>/recipes/messer-agnolotto/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/recipes/messer-agnolotto/</guid>
-      <description>This recipe was shared with me by my cousin Filippo Novelli. I have translated it from Italian and posted it here for my reference.
-Egg PastaIngredientsAmountIngredient300 gflour3eggsDirectionsRoll out dough and cut in the shape of a ravioliStuff with ricotta, grated peccorino, and black pepperRest for one (1) hour at room temperatureCook for four (4) minutes in boiling salted waterSeparately prepare the sauce with butter, sage, guanciale, and pepper.</description>
-    </item>
-    
-  </channel>
-</rss>

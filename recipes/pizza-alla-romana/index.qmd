@@ -1,0 +1,46 @@
+---
+title: "Pizza alla romana"
+author: "D. Scarnecchia"
+date: "2022-09-11"
+categories: [cooking, pizza, recipes, italian]
+---
+
+A specification, translated from Italian. The preparation of the Roman-style pizza by the slice requires attention and attention to detail.
+
+## Ingredients
+
+| Amount | Percentage | Ingredient             |
+|:-------|:-----------|:-----------------------|
+| 360 g  | 100 %      | flour (0 or 00)        |
+| 290 g  | 80.5 %     | water (at 4° C)        |
+| 7 g    | 2 %        | salt                   |
+| 7 g    | 2 %        | extra virgin olive oil |
+| 2.1 g  | .5 %       | yeast                  |
+
+: Ingredients for one (1) 30 \times 40cm Pizza
+
+## Preparation
+
+1.  In a mixer (or in a container large enough for those who proceed by hand, pour the flour, the crumbled brewer's yeast and then the salt, starting to mix.
+2.  Add 75 % (217.5 g) of the water at 4° C (39.2° F) and start working the dough carefully, until it is strung. The dough is "strung" when it detaches from the walls and bottom of the mixer and is compact , smooth and elastic.
+3.  Only when the dough has these characteristics can the remaining part of water be added little by little (always at 4 °), waiting every time that the pizza dough has completely absorbed the remaining amount of water.
+
+Rest at room temperature:
+
+| Room Temperature      | Autolyse Time |
+|:----------------------|---------------|
+| 24--26° C (75--79° F) | 30 minutes    |
+| 21--23° C (69--74° F) | 60 minutes    |
+| 18--20° C (64--68° F) | 90 minutes    |
+
+: Autolyse times based on room temperature
+
+Leaven in an airtight container for 44 hours at 4° C (39.2° F).
+
+1.  Pour into a floured baking sheet and fold into three.
+2.  Let rest for 3--4 hours
+3.  Pre-heat the oven to maximum temperature
+4.  Roll out into a rectangular shape and top with oil
+5.  Transfer to pan and top with everything but the mozzarella
+6.  Cook for 6 minutes at maximum temperature at the bottom of the oven.
+7.  Lower temperature to 230° C (450° F), add mozzarella, and cook for an additional ten minutes.

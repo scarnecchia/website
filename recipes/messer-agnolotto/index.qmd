@@ -1,0 +1,26 @@
+---
+title: "Messer Agnolotto"
+author: "D. Scarnecchia"
+date: "2021-02-20"
+categories: [cooking, pasta, recipes, italian]
+---
+
+This recipe was shared with me by my cousin [Filippo Novelli](https://dettiefumetti.wordpress.com/category/cucina/). I have translated it from Italian and posted it here for my reference.
+
+## Egg Pasta {#sec-egg-pasta}
+
+### Ingredients {#sec-ingredients}
+
+| Amount | Ingredient |
+|--------|------------|
+| 300 g  | flour      |
+| 3      | eggs       |
+
+### Directions {#sec-directions}
+
+1.  Roll out dough and cut in the shape of a ravioli
+2.  Stuff with ricotta, grated peccorino, and black pepper
+3.  Rest for one (1) hour at room temperature
+4.  Cook for four (4) minutes in boiling salted water
+
+Separately prepare the sauce with butter, sage, guanciale, and pepper.

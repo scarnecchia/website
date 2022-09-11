@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Scarnecchia</title>
+    <link>/</link>
+    <description>Recent content on Daniel Scarnecchia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+
+    
+      <item>
+        <title>Recipes</title>
+        <link>/recipes/</link>
+        <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>/recipes/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+      <item>
+        <title>Posts</title>
+        <link>/post/</link>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>/post/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+      <item>
+        <title>About</title>
+        <link>/about/</link>
+        <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+        <author>Daniel Scarnecchia</author>
+        <guid>/about/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+  </channel>
+</rss>

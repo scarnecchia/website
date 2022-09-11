@@ -1,0 +1,12 @@
+---
+title: Publications
+style: 'background: lightslategray; color: white;'
+weight: 3
+---
+
+1. Campo, Stuart R., Caitlin N. Howarth, Nathaniel A. Raymond, and Daniel P. Scarnecchia. “The Signal Code: Ethical Obligations for Humanitarian Information Activities.” Standards and Ethics. Cambridge: Harvard Humanitarian Initiative, 2018. https://signalcodeorg.files.wordpress.com/2018/05/signal-obligations-final-05-24-2018.pdf.
+1. Starbird, Kate, Ahmer Arif, Tom Wilson, Katherine Van Koevering, Katya Yefimova, and Daniel P. Scarnecchia. “Ecosystem or Echo-System? Exploring Content Sharing across Alternative Media Domains.” In 12th International AAAI Conference on Web and Social Media (ICWSM-18). Stanford, CA: Association for the Advancement of Artificial Intelligence Publications, 2018. https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17836.
+1. Greenwood, Faine, Caitlin Howarth, Danielle N. Poole, Nathaniel A. Raymond, and Daniel P. Scarnecchia. “The Signal Code: A Human Rights Approach to Information During Crisis.” Standards and Ethics. Cambridge: Harvard Humanitarian Initiative, 2017. http://hhi.harvard.edu/publications/signal-code-human-rights-approach-information-during-crisis.
+1. Scarnecchia, Daniel P., Nathaniel A. Raymond, Faine Greenwood, Caitlin Howarth, and Danielle N. Poole. “A Rights-Based Approach to Information in Humanitarian Assistance.” PLOS Currents Disasters, September 20, 2017. https://doi.org/10/gcv6tk.
+1. Tillman, Patricia, Anna Tomaskovia-Devey, Stephanie Boucher, Mandy Brule, Sirin Duygulu, Amy Fleig, and Daniel P. Scarnecchia. “Changing the Rules: Strategies for Creating an International Standard for the Compensation of Civilians Harmed Unintentionally in Armed Conflict.” Working Paper. University of Massachusetts, 2009.
+
