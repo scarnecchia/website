@@ -8,10 +8,6 @@ website:
   title: "Scarnecchia"
   site-url: "https://scarnecchia.net"
   reader-mode: true
-  cookie-consent:
-    type: express
-    style: headline
-    palette: dark
   navbar:
     right:
       - about.qmd
