@@ -2,6 +2,7 @@
 title: "Scarnecchia"
 listing:
   contents: 
+    - "posts/*"
     - "posts/*/*.qmd"
     - "recipes/**"
   feed: true

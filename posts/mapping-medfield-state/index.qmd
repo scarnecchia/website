@@ -16,7 +16,7 @@ resources:
   - "css/**"
   - "images/**"
   - "js/**"
-image: "resources/img/ortho_merged.jpg"
+image: "images/ortho_merged.jpg"
 ---
 
 This weekend [Faine](http://faineg.com) and I drove out to the Medfield State Hospital, a defunct mental hospital in Medfield, Massachusetts. The grounds are open to the public, and it is outside of Boston's Class B airspace. Faine recently picked up a [DJI Phantom 3](http://www.dji.com/product/phantom-3) and a the folks at [Drone Deploy](https://www.dronedeploy.com) were kind enough to give us access to the application for testing.
