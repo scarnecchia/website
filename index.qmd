@@ -5,6 +5,7 @@ listing:
     - "posts/*"
     - "posts/*/*.qmd"
     - "recipes/**"
+    - "cocktails/**"
   feed: true
   sort: "date desc"
   type: default

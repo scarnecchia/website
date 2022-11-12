@@ -1,0 +1,28 @@
+---
+title: "Terry's Dark Chocolate Orange Cocktail"
+author: "D. Scarnecchia"
+date: "2022-11-12"
+categories: [cocktails, dessert, frangelico, rum, christmas, chocolate]
+---
+I came up with this drink during the first Christmas of the pandemic. We were pretty bored and isolated then, so we perhaps indulged more than we should have. This tends on the sweeter side if you use a sweeter rum, which is the optimal configuration.[^index-1]
+
+::: columns
+::: {.column width="50%"}
+## Ingredients
+
+-   $2$ oz. Dark rum\index{Rum, Dark}
+-   $1$ oz. Frangelico\index{Frangelico}
+-   $\frac{1}{2}$ oz. Cointreau\index{Cointreau}
+-   $1$ dash of black walnut bitters\index{Bitters, Black Walnut}
+
+## Directions
+
+Mix ingredients together with ice. Stir vigorously. Strain into a coupe glass and garnish with an orange peel.
+:::
+
+::: {.column width="50%"}
+![Terry's Dark Chocolate Orange Cocktail](images/FhU85ASWYAINmys.jpg){fig-alt="A photo of the Terry's Dark Chocolate Orange Cocktail. The cocktail is in a coupe glass, garnished with a piece of orange peel. It is sitting on a mirrored backlit bar." width="90%" fig-align="right"}
+:::
+:::
+
+[^index-1]: *Ed. Note*: I recommend a rum slightly on the sweeter side, such as a Pyrat.
